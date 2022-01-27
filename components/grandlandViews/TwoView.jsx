@@ -5,7 +5,8 @@ export default function TwoView() {
     return (
         <div className="bg-white flex filter drop-shadow-lg justify-start rounded w-[96%] h-full bg-contain bg-right bg-no-repeat" style={{backgroundImage:"url(/imgs/tres.jpg)"}}>
        <AnimatedSlideInLeft className='w-2/5 float-left text-justify text-[8px] lg:text-base 2xl:text-base ld:pt-6 pt-1 pl-4'>
-       jehofiuhadsipjgdipjgiprjgipraejgiprjgipojreipogrjorjgòrjgòrkgvòkrfòhgjrpojtrjhbñknt htajhpijteh <br /> <br /> gkdgigdfpigjmrkñtmgrekjgiprjtirapjgirphy9erjhgpirfjhyipejhpijrfhjadfpijhipdjtihpojtsgpohjtsgojhòtfsj <br /> <br />   Estimados amigos, kjgfiojgipfjgiprjfgiojreo`hktaòkhòtadkhtòkthopktadhphkpKS¨L`. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta ipsum optio omnis in nihil quasi similique porro esse, officiis, id ea? Animi velit necessitatibus aspernatur quis placeat eum esse recusandae. <br /> <br />   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sit repudiandae modi laudantium cum quaerat fugit dolores quos minima pariatur, est sunt necessitatibus architecto, beatae nam voluptate dicta. Voluptatem, eius eligendi. <br /> <br /> RUBEN GONZALEZ <br /> Director-gerente <br /> GAD"
+       Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis molestiae labore, odio corporis facilis veniam aliquid beatae officiis nostrum minima id, repellendus fuga ducimus incidunt ea pariatur doloremque reiciendis quas?
+       Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure optio reprehenderit, quaerat aut recusandae, quia veritatis delectus eaque accusantium in placeat neque sit illum dolorem aspernatur numquam, ratione excepturi cupiditate.
        </AnimatedSlideInLeft>
       </div>
     )
